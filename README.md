@@ -1,6 +1,5 @@
 # Number-Guessing-Functions---Codecademy-Project
 This is one of the Codecademy Project to build Number Guessing Game Function using Javascript.
-# Frontend Mentor - Building Product Preview Card Component using HTML & CSS
 
 This is the solution to the Number Guessing Game Project from Codecademy.
 
